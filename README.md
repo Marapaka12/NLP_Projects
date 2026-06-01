@@ -12,3 +12,7 @@ Tech Stack: Python, NLTK, Pandas, NumPy, Scikit-learn, TF-IDF, Streamlit.
 Developed an NLP-based Resume Screening system to automatically analyze and classify resumes based on job requirements. Performed text preprocessing, feature extraction, and machine learning-based candidate matching to streamline the recruitment process and improve hiring efficiency.
 
 Tech Stack: Python, NLTK, Pandas, NumPy, Scikit-learn, TF-IDF, Streamlit.
+
+# Spam Detection System
+
+This project aims to detect whether a message is Spam or Not Spam using Machine Learning techniques. The dataset contains message-related features such as the number of links, word count, offer presence, sender reputation score, and capitalization patterns. Multiple classification algorithms were trained and evaluated, and the best-performing model was selected for prediction.
